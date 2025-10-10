@@ -6,13 +6,10 @@
 # AI4EVIR: AI for Evidential Reasoning
 Website for the JURIX25 workshop AI4EVIR.
 
-
 ## Call for Papers
-
 
 ## Important dates
 
 ## Schedule & Location
 
-Conference website
-https://jurix2025.di.unito.it/home
+Conference website: https://jurix2025.di.unito.it/home
