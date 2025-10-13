@@ -42,8 +42,8 @@ We invite contributions on topics including (but not limited to):
 ## Submission guidelines
 We welcome:
 
-Regular papers (up to 12 pages, excluding references) presenting completed research
-Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas
+- Regular papers (up to 12 pages, excluding references) presenting completed research.
+- Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas.
 
 Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download LaTeX paper template here</a>) and be submitted via <a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>.
 
