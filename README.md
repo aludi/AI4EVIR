@@ -14,3 +14,6 @@ Website for the JURIX25 workshop AI4EVIR.
 EasyChair: https://easychair.org/my/conference?conf=ai4evir
 
 Conference website: https://jurix2025.di.unito.it/home
+
+
+<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download FILE</a>
