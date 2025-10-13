@@ -41,6 +41,7 @@ We invite contributions on topics including (but not limited to):
 
 ## Submission guidelines
 We welcome:
+
 Regular papers (up to 12 pages, excluding references) presenting completed research
 Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas
 
