@@ -49,9 +49,9 @@ We welcome:
 Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR1.zip">Download LaTeX paper template</a>) and be submitted via <a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>.
 
 ## Important dates (AoE)
-Submission deadline: 2 November
+Submission deadline: 10 November
 
-Notification of acceptance: 20 November
+Notification of acceptance: 24 November
 
 Camera-ready version: 7 December
 
