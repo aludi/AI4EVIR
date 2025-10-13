@@ -15,9 +15,10 @@ Reasoning with evidence to establish relevant facts lies at the heart of legal r
 The AI for Evidential Reasoning workshop aims to bring together researchers working on formal, computational, and empirical approaches to reasoning with evidence, as well as those with expertise in forensic science and evidence evaluation. The goal is to foster discussion and exchange between theoretical and applied perspectives on how AI can contribute to evidential reasoning in legal and investigative contexts.
 
 The half-day workshop will feature:
-A keynote from a forensic scientist about the evaluation of digital findings in forensic casework
-Paper presentations on accepted papers
-A discussion session focused on practical examples 
+
+- A keynote the evaluation of digital findings in forensic casework” by Marouschka Vink from the Netherlands Forensic Institute (NFI)
+- Paper presentations on accepted papers
+- A discussion session focused on practical examples 
 
 The workshop proceedings will be submitted to CEUR for publication.
 
