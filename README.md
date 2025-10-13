@@ -11,8 +11,6 @@ Website for the JURIX25 workshop AI4EVIR.
 
 Workshop date: 9 December 2025
 
-Website: https://aludi.github.io/AI4EVIR/
-
 Reasoning with evidence to establish relevant facts lies at the heart of legal reasoning. Technologies that allow us to reason about facts are evolving, and new kinds of evidence are becoming available (for example, digital forensic science). At the same time, reasoning with evidence is a dynamic and complex process: practitioners must decide what evidence to collect and how to interpret it amid vast amounts of data. These choices in selecting evidence and the following reasoning with evidence are complex tasks that may benefit from standardization and assistance by AI, for example, to avoid probabilistic and other fallacies.
 The AI for Evidential Reasoning workshop aims to bring together researchers working on formal, computational, and empirical approaches to reasoning with evidence, as well as those with expertise in forensic science and evidence evaluation. The goal is to foster discussion and exchange between theoretical and applied perspectives on how AI can contribute to evidential reasoning in legal and investigative contexts.
 
