@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="500" height="300" alt="AI" src="https://github.com/user-attachments/assets/632051ea-bacf-4df5-9e64-b0da4ab59834" />
+<img width="500" height="400" alt="AI" src="https://github.com/user-attachments/assets/632051ea-bacf-4df5-9e64-b0da4ab59834" />
 </p>
 
 # AI4EVIR: AI for Evidential Reasoning
