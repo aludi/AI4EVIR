@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="500" height="400" alt="AI" src="https://github.com/user-attachments/assets/632051ea-bacf-4df5-9e64-b0da4ab59834" />
+<img width="500" height="450" alt="AI" src="https://github.com/user-attachments/assets/632051ea-bacf-4df5-9e64-b0da4ab59834" />
 </p>
 
 # AI4EVIR: AI for Evidential Reasoning
@@ -46,7 +46,7 @@ We welcome:
 Regular papers (up to 12 pages, excluding references) presenting completed research
 Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas
 
-Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download LaTeX paper template here</a>) and be submitted via (<a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>).
+Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download LaTeX paper template here</a>) and be submitted via <a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>.
 
 ## Important dates (AoE)
 Submission deadline: 2 November
