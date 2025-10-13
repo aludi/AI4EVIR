@@ -16,7 +16,7 @@ The AI for Evidential Reasoning workshop aims to bring together researchers work
 
 The half-day workshop will feature:
 
-- A keynote the evaluation of digital findings in forensic casework” by Marouschka Vink from the Netherlands Forensic Institute (NFI)
+- A keynote "the evaluation of digital findings in forensic casework” by Marouschka Vink from the Netherlands Forensic Institute (NFI)
 - Paper presentations on accepted papers
 - A discussion session focused on practical examples 
 
@@ -46,7 +46,7 @@ We welcome:
 - Regular papers (up to 12 pages, excluding references) presenting completed research
 - Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas
 
-Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR1.zip">Download LaTeX paper template here</a>) and be submitted via <a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>.
+Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR1.zip">Download LaTeX paper template</a>) and be submitted via <a id="raw-url" href="https://easychair.org/my/conference?conf=ai4evir">EasyChair</a>.
 
 ## Important dates (AoE)
 Submission deadline: 2 November
