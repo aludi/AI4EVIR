@@ -3,8 +3,7 @@
 <img width="500" height="450" alt="AI" src="https://github.com/user-attachments/assets/632051ea-bacf-4df5-9e64-b0da4ab59834" />
 </p>
 
-# AI4EVIR: AI for Evidential Reasoning
-Website for the JURIX25 workshop AI4EVIR.
+# Workshop AI4EVIR: AI for Evidential Reasoning
 
 ## Call for Papers
 (in conjunction with JURIX 2025, 10–11 December, Turin)
