@@ -46,7 +46,7 @@ We welcome:
 Regular papers (up to 12 pages, excluding references) presenting completed research
 Short papers (up to 6 pages, excluding references) describing work in progress, demos, visions, and ideas
 
-Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download LaTeX paper template here</a>) and be submitted via EasyChair (https://easychair.org/my/conference?conf=ai4evir).
+Submissions must follow the CEUR-WS template (<a id="raw-url" href="https://raw.githubusercontent.com/aludi/AI4EVIR/main/TemplateAI4EVIR.zip">Download LaTeX paper template here</a>) and be submitted via [https://easychair.org/my/conference?conf=ai4evir](EasyChair).
 
 ## Important dates (AoE)
 Submission deadline: 2 November
