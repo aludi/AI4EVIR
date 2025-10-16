@@ -40,6 +40,11 @@ We invite contributions on topics including (but not limited to):
 
 -----------------
 
+## Organizers
+Ludi van Leeuwen - Rijksuniversiteit Groningen (l.s.van.leeuwen@rug.nl)
+Roos Scheffers - Utrecht Universiteit (r.j.scheffers@uu.nl)
+Bart Verheij - Rijksuniversiteit Groningen
+
 ## Submission guidelines
 We welcome:
 
