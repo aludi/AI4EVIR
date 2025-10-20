@@ -40,23 +40,41 @@ We invite contributions on topics including (but not limited to):
 
 -----------------
 ## Program Committee
+
 Burkhard Schafer
+
 Florix Bex
+
 Rineke Verbrugge
+
 Anne Ruth Mackor
+
 Willian Thompson
+
 Hylke Jellema
+
 Giovanni Tuzet
+
 Henry Prakken
+
 Daphne Odekerken
+
 Annet Onnes
+
 Cor Steging
+
 Marouschka Vink
+
 Silja Renooij
+
 Marcello Di Bello
+
 Jeroen Keppens
+
 Bart Verheij
+
 Christian Dahlman
+
 
 
 ## Organizers
