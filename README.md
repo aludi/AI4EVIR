@@ -39,6 +39,25 @@ We invite contributions on topics including (but not limited to):
 -  Philosophical perspectives on the nature and role of evidence
 
 -----------------
+## Program Committee
+Burkhard Schafer
+Florix Bex
+Rineke Verbrugge
+Anne Ruth Mackor
+Willian Thompson
+Hylke Jellema
+Giovanni Tuzet
+Henry Prakken
+Daphne Odekerken
+Annet Onnes
+Cor Steging
+Marouschka Vink
+Silja Renooij
+Marcello Di Bello
+Jeroen Keppens
+Bart Verheij
+Christian Dahlman
+
 
 ## Organizers
 Ludi van Leeuwen - Rijksuniversiteit Groningen (l.s.van.leeuwen@rug.nl)
