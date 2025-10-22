@@ -71,8 +71,6 @@ Marcello Di Bello
 
 Jeroen Keppens
 
-Bart Verheij
-
 Christian Dahlman
 
 
