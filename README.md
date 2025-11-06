@@ -49,7 +49,7 @@ Rineke Verbrugge
 
 Anne Ruth Mackor
 
-Willian Thompson
+William Thompson
 
 Hylke Jellema
 
