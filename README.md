@@ -9,7 +9,6 @@
 
 ## Schedule
 
-Schedule AI4EVIR
 
 Tuesday December 9th, morning session (09:00-13:00), at Cavallerizza Reale – Piazza Vittorio Veneto, Sala Multifunzione.
 
