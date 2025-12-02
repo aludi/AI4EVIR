@@ -29,7 +29,7 @@ Invited talk: Marouschka Vink
 
 **10:30 - 11:00 Coffee break**
 
-**11:00 - 12:30 Session 2**
+**11:00 - 12:40 Session 2**
 
 11:00 - 11:20 - Mario Guenther and Conrad Friedrich - Probabilifying the Scenario Approach to Legal Proof
 
