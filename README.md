@@ -34,7 +34,7 @@ Invited talk: Marouschka Vink
 
 11:00 - 11:20 - Mario Guenther and Conrad Friedrich - Probabilifying the Scenario Approach to Legal Proof
 
-11:20 - 11:40  - Leya Hampson and Ludi van Leeuwen - The quantifying step in Bayesian network modeling
+11:20 - 11:40  - Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
 
 11:40 - 12:00 -  Aybüke Özgün and Daira Pinto Prieto - A Qualitative Logic for Uncertain Evidence and Belief Comparison
 
