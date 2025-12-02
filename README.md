@@ -42,7 +42,7 @@ Invited talk: Marouschka Vink
 12:20 - 12:40 - Henrik Palmer Olsen, Mohammad N S Jahromi, Frederik Bay-Jørgensen, Thomas B Moeslund and Thomas Gammeltoft-Hansen - Managing Fuzziness: Leveraging LLMs for Discovering Credibility Indicators in Asylum Cases
 
 
-**12:40 - 13:00 - Wrapup and closing**
+**12:40 - 13:00 - Wrapup Discussion and closing**
 
 
 
