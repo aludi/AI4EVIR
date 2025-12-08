@@ -7,7 +7,7 @@
 
 
 
-## Schedule
+## Updated Schedule!
 
 
 Tuesday December 9th, morning session (09:00-13:00), at Cavallerizza Reale – Piazza Vittorio Veneto, Sala Multifunzione.
@@ -21,30 +21,26 @@ Invited talk: Marouschka Vink
 
 **09:50-10:30 Session 1**
 
-09:50 - 10:05 - Federico Costantini, Fausto Galvan, Francesco Crisci, Luca Baron and Pier Luca Montessoro - Towards the definition of best practices for the use of AI in digital forensics
+09:50 - 10:10 - Federico Costantini, Fausto Galvan, Francesco Crisci, Luca Baron and Pier Luca Montessoro - Towards the definition of best practices for the use of AI in digital forensics
 
-10:05 - 10:20 -  Anne Ruth Mackor and Henry Prakken - On Reporting Likelihood Ratios of Exhaustive and Non-Exhaustive Hypotheses about Rare Events in Criminal Cases
-
-10:20 - 10:30 - Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: Witnesses, Certificates, and Argumentation Frameworks
+10:10 - 10:30 -  Anne Ruth Mackor and Henry Prakken - On Reporting Likelihood Ratios of Exhaustive and Non-Exhaustive Hypotheses about Rare Events in Criminal Cases
 
 **10:30 - 11:00 Coffee break**
 
 **11:00 - 12:40 Session 2**
 
-11:00 - 11:20 - Mario Guenther and Conrad Friedrich - Probabilifying the Scenario Approach to Legal Proof
+11:00 - 11:20 - Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
 
-11:20 - 11:40  - Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
+11:20 - 11:40  - Aybüke Özgün and Daira Pinto Prieto - A Qualitative Logic for Uncertain Evidence and Belief Comparison
 
-11:40 - 12:00 -  Aybüke Özgün and Daira Pinto Prieto - A Qualitative Logic for Uncertain Evidence and Belief Comparison
+11:40 - 12:00 -  Mengxuan Helen Qiao, Vanessa Cheung, Leya Hampson and David Lagnado - Recency Effects, Cautious Convictions, and Conservative Updating in GPT-4o’s Legal Decisions
 
-12:00 - 12:20 - Mengxuan Helen Qiao, Vanessa Cheung, Leya Hampson and David Lagnado - Recency Effects, Cautious Convictions, and Conservative Updating in GPT-4o’s Legal Decisions
+12:00 - 12:10 - Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: Witnesses, Certificates, and Argumentation Frameworks
 
-12:20 - 12:40 - Henrik Palmer Olsen, Mohammad N S Jahromi, Frederik Bay-Jørgensen, Thomas B Moeslund and Thomas Gammeltoft-Hansen - Managing Fuzziness: Leveraging LLMs for Discovering Credibility Indicators in Asylum Cases
-
-
-**12:40 - 13:00 - Wrapup Discussion and closing**
+12:10 - 12:30 - Henrik Palmer Olsen, Mohammad N S Jahromi, Frederik Bay-Jørgensen, Thomas B Moeslund and Thomas Gammeltoft-Hansen - Managing Fuzziness: Leveraging LLMs for Discovering Credibility Indicators in Asylum Cases
 
 
+**12:30 - 13:00 - Wrapup Discussion and closing**
 
 
 
