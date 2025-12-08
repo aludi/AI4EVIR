@@ -29,13 +29,13 @@ Invited talk: Marouschka Vink
 
 **11:00 - 12:40 Session 2**
 
-11:00 - 11:20 - Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
+11:00 - 11:10 - Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: Witnesses, Certificates, and Argumentation Frameworks
 
-11:20 - 11:40  - Aybüke Özgün and Daira Pinto Prieto - A Qualitative Logic for Uncertain Evidence and Belief Comparison
+11:10 - 11: 30 Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
 
-11:40 - 12:00 -  Mengxuan Helen Qiao, Vanessa Cheung, Leya Hampson and David Lagnado - Recency Effects, Cautious Convictions, and Conservative Updating in GPT-4o’s Legal Decisions
+11:30 - 11:50  - Aybüke Özgün and Daira Pinto Prieto - A Qualitative Logic for Uncertain Evidence and Belief Comparison
 
-12:00 - 12:10 - Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: Witnesses, Certificates, and Argumentation Frameworks
+11:50 - 12:10 -  Mengxuan Helen Qiao, Vanessa Cheung, Leya Hampson and David Lagnado - Recency Effects, Cautious Convictions, and Conservative Updating in GPT-4o’s Legal Decisions
 
 12:10 - 12:30 - Henrik Palmer Olsen, Mohammad N S Jahromi, Frederik Bay-Jørgensen, Thomas B Moeslund and Thomas Gammeltoft-Hansen - Managing Fuzziness: Leveraging LLMs for Discovering Credibility Indicators in Asylum Cases
 
