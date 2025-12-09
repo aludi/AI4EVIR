@@ -21,7 +21,7 @@ Invited talk: Marouschka Vink
 
 **09:50-10:30 Session 1**
 
-09:50 - 10:10 - Federico Costantini, Fausto Galvan, Francesco Crisci, Luca Baron and Pier Luca Montessoro - Towards the definition of best practices for the use of AI in digital forensics
+09:50 - 10:10 - Federico Costantini, Fausto Galvan, Francesco Crisci, Luca Baron and Pier Luca Montessoro - The Quality Assessment of LLM in Digital Forensics
 
 10:10 - 10:30 -  Anne Ruth Mackor and Henry Prakken - On Reporting Likelihood Ratios of Exhaustive and Non-Exhaustive Hypotheses about Rare Events in Criminal Cases
 
@@ -29,7 +29,7 @@ Invited talk: Marouschka Vink
 
 **11:00 - 12:40 Session 2**
 
-11:00 - 11:10 - Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: Witnesses, Certificates, and Argumentation Frameworks
+11:00 - 11:10 - Shawn Bowers and Bertram Ludäscher - Towards Trustworthy AI Results using Evidence Structures: From Certificates to Argumentation Frameworks     
 
 11:10 - 11: 30 Leya Hampson and Ludi van Leeuwen - Investigating the value of qualitative Bayesian networks of complete cases as "double-check" tools on traditional judicial reasoning: An exploratory study
 
