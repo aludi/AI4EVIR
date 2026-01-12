@@ -17,7 +17,7 @@ Tuesday December 9th, morning session (09:00-13:00), at Cavallerizza Reale – P
 
 **09:15-09:50**
 
-Invited talk: Marouschka Vink ([Slides](https://github.com/user-attachments/files/24571435/Jurix2025_AI4EVIR_share.pdf))
+Invited talk: Marouschka Vink(<a id="raw-url" href="https://github.com/user-attachments/files/24571435/Jurix2025_AI4EVIR_share.pdf">Slides</a>)
 
 **09:50-10:30 Session 1**
 
