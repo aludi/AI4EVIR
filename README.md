@@ -6,6 +6,8 @@
 # Workshop AI4EVIR: AI for Evidential Reasoning
 
 
+# CEUR Proceedings Now Online!
+We are very pleased to announce that the workshop proceedings can now be found <a id="raw-url" href="http://ceur-ws.org/Vol-4157">online</a>.!
 
 ## Updated Schedule!
 
@@ -145,5 +147,9 @@ Camera-ready version: 7 December
 EasyChair: https://easychair.org/my/conference?conf=ai4evir
 
 Conference website: https://jurix2025.di.unito.it/home
+
+## This workshop was made possible by:
+- [JURIX 2025](https://jurix2025.di.unito.it/home)
+- CEUR-WS.org
 
 
