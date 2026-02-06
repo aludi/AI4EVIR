@@ -7,7 +7,7 @@
 
 
 # CEUR Proceedings Now Online!
-We are very pleased to announce that the workshop proceedings can now be found <a id="raw-url" href="http://ceur-ws.org/Vol-4157">online</a>.!
+We are very pleased to announce that the workshop proceedings can now be found <a id="raw-url" href="http://ceur-ws.org/Vol-4157">online</a>!
 
 ## Updated Schedule!
 
