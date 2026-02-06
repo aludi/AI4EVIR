@@ -150,6 +150,6 @@ Conference website: https://jurix2025.di.unito.it/home
 
 ## This workshop was made possible by:
 - [JURIX 2025](https://jurix2025.di.unito.it/home)
-- CEUR-WS.org
+- [CEUR-WS.org](CEUR-WS.org)
 
 
